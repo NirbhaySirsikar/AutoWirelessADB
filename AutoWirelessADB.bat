@@ -23,5 +23,8 @@ echo Extracted IP Address: !EXTRACTED_IP!
 
 adb connect !EXTRACTED_IP!:5555
 
+echo.
+echo You can now remove your device
+
 pause
 endlocal
