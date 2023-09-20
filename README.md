@@ -18,9 +18,10 @@ This repository contains a batch script that simplifies the task of configuring 
 
 To use this script, follow these steps:
 
-1. Connect your Android device to your computer using a USB cable.
-2. Run the batch script `AutoWirelessADB.bat`.
-3. Follow the on-screen instructions to configure the wireless connection for the connected device.
+1. Ensure that both your computer and the Android device are connected to the **same network**.
+2. Connect your Android device to your computer using a USB cable.
+3. Run the batch script `AutoWirelessADB.bat`.
+4. Follow the on-screen instructions to configure the wireless connection for the connected device.
 
 ## Pre-requisites
 
